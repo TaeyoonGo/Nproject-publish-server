@@ -288,7 +288,7 @@ data.notice = {
             page: '공지사항_상세'
         },
         {
-            stateClass: 'working',
+            stateClass: 'confirm',
             url: '이메일발송하기_체크박스체크전',
             category: 'notice',
             page: '이메일발송하기_체크박스체크전'
@@ -448,6 +448,30 @@ data.signupen = {
             url: '기본정보_해외_수정',
             category: 'signupen',
             page: '기본정보_해외_수정'
+        },
+        {
+            stateClass: 'confirm',
+            url: '기본정보_해외_상태수정',
+            category: 'signupen',
+            page: '기본정보_해외_상태수정'
+        },
+        {
+            stateClass: 'confirm',
+            url: '기본정보_해외_결제제한수정',
+            category: 'signupen',
+            page: '기본정보_해외_결제제한수정'
+        },
+        {
+            stateClass: 'working',
+            url: '기본정보_해외_수수료수정',
+            category: 'signupen',
+            page: '기본정보_해외_수수료수정'
+        },
+        {
+            stateClass: 'confirm',
+            url: '기본정보_해외_수수료수정이력',
+            category: 'signupen',
+            page: '기본정보_해외_수수료수정이력'
         },
     ]
 }
