@@ -564,6 +564,89 @@ data.mkt = {
         },
     ]
 }
+data.account = {
+    title:'현금영수증',
+    list:[
+        {
+            stateClass: 'confirm',
+            url: '현금영수증_조회_발행하기',
+            category: 'account',
+            page: '현금영수증_조회_발행하기'
+        },
+        {
+            stateClass: 'confirm',
+            url: '현금영수증_발행하기',
+            category: 'account',
+            page: '현금영수증_발행하기'
+        },
+        {
+            stateClass: 'confirm',
+            url: '현금영수증_발행이력_더블체크',
+            category: 'account',
+            page: '현금영수증_발행이력_더블체크'
+        },
+
+        {
+            stateClass: 'confirm',
+            url: '현금영수증_이력',
+            category: 'account',
+            page: '현금영수증_이력'
+        },
+    ]
+}
+data.tax = {
+    title:'세금계산서',
+    list:[
+        {
+            stateClass: 'confirm',
+            url: '세금계산서_발행',
+            category: 'tax',
+            page: '세금계산서_발행'
+        },
+        {
+            stateClass: 'confirm',
+            url: '공인인증서_등록팝업',
+            category: 'tax',
+            page: '공인인증서_등록팝업'
+        },
+        {
+            stateClass: 'confirm',
+            url: '공인인증서_등록완료팝업',
+            category: 'tax',
+            page: '공인인증서_등록완료팝업'
+        },
+        {
+            stateClass: 'confirm',
+            url: '이메일발송_팝업',
+            category: 'tax',
+            page: '이메일발송_팝업'
+        },
+        {
+            stateClass: 'confirm',
+            url: '상호명_조회_데이터_체크',
+            category: 'tax',
+            page: '상호명_조회_데이터_체크'
+        },
+        {
+            stateClass: 'confirm',
+            url: '상호명_조회_데이터_체크_정상',
+            category: 'tax',
+            page: '상호명_조회_데이터_체크_정상'
+        },
+        {
+            stateClass: 'confirm',
+            url: '상호명_조회_데이터_체크_폐업',
+            category: 'tax',
+            page: '상호명_조회_데이터_체크_폐업'
+        },
+        {
+            stateClass: 'confirm',
+            url: '상호명_조회_데이터없음',
+            category: 'tax',
+            page: '상호명_조회_데이터없음'
+        },
+    ]
+}
 
 
 
