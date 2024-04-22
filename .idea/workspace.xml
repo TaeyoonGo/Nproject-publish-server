@@ -1,7 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c69ba47-a0d0-446a-9ae3-b114945bbec7" name="변경" comment="aside 수정 완료" />
+    <list default="true" id="8c69ba47-a0d0-446a-9ae3-b114945bbec7" name="변경" comment="aside 수정 완료">
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/css/payple_component.css" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/css/payple_component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/css/payple_pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/css/payple_pages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_발행이력_더블체크.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_발행이력_더블체크.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_발행하기.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_발행하기.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_이력.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_이력.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_조회_발행하기.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_조회_발행하기.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상담관리.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상담관리.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상담관리_등록하기.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상담관리_등록하기.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상담관리_모달.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상담관리_모달.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상담관리_수정하기.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상담관리_수정하기.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상호명조회_조회결과없음.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상호명조회_조회결과없음.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상호명조회_조회결과있음.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/consulting/상호명조회_조회결과있음.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/가상계좌_취소.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/가상계좌_취소.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/가상계좌_취소_더블체크_개인.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/가상계좌_취소_더블체크_개인.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/가상계좌_취소_더블체크_법인.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/가상계좌_취소_더블체크_법인.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/가상계좌_취소_입력값오류.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/가상계좌_취소_입력값오류.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/가상계좌_취소_입력값입력시.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/가상계좌_취소_입력값입력시.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/거래상세.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/거래상세.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결재내역_취소버튼클릭시.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결재내역_취소버튼클릭시.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결재내역_취소버튼클릭시_에러.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결재내역_취소버튼클릭시_에러.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결제내역_국내_등록해지정보.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결제내역_국내_등록해지정보.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결제내역_국내_요청실패내역.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결제내역_국내_요청실패내역.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결제내역_국내_조회결과없음.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결제내역_국내_조회결과없음.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결제내역_국내_조회결과있음.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/결제내역_국내_조회결과있음.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/카드_계좌_취소_완료.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/카드_계좌_취소_완료.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/카드_취소_더블체크.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/domesticpayment/카드_취소_더블체크.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/emailfilter/이메일관리.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/emailfilter/이메일관리.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/emailfilter/이메일관리_상세내용확인.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/emailfilter/이메일관리_상세내용확인.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/emailfilter/이메일관리_작성하기.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/emailfilter/이메일관리_작성하기.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/emailfilter/이메일관리_작성하기팝업.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/emailfilter/이메일관리_작성하기팝업.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/결재내역_취소버튼클릭시.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/결재내역_취소버튼클릭시.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/결재내역_취소버튼클릭시_에러.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/결재내역_취소버튼클릭시_에러.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/결제내역_해외_상세내역.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/결제내역_해외_상세내역.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/결제내역_해외_조회결과있음.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/결제내역_해외_조회결과있음.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/매입_실패내역.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/매입_실패내역.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/승인_요청_실패내역.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/승인_요청_실패내역.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/승인_요청_실패내역_상세내역.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/승인_요청_실패내역_상세내역.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/취소_더블체크.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/취소_더블체크.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/취소_완료.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/취소_완료.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/해외_1달러_인증.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/해외_1달러_인증.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/해외_등록_해지정보.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/globalpayment/해외_등록_해지정보.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/button.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/button.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/calender.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/calender.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/color.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/color.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/font.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/font.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/icon.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/icon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/input.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/input.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/modal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/tab.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/tab.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역_국내검색시.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역_국내검색시.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역_해외검색시.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역_해외검색시.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/mkt/제휴_참여신청.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/mkt/제휴_참여신청.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/mkt/제휴_혜택신청.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/mkt/제휴_혜택신청.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/공지사항.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/공지사항.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/공지사항_상세.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/공지사항_상세.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/공지사항_수정.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/공지사항_수정.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/공지사항_작성.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/공지사항_작성.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/이메일발송하기_발송후_더블체크.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/이메일발송하기_발송후_더블체크.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/이메일발송하기_완료.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/이메일발송하기_완료.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/이메일발송하기_체크박스체크전.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/이메일발송하기_체크박스체크전.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/이메일발송하기_체크박스체크후.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/notice/이메일발송하기_체크박스체크후.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupen/기본정보_해외.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupen/기본정보_해외.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupen/기본정보_해외_결제제한수정.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupen/기본정보_해외_결제제한수정.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupen/기본정보_해외_상태수정.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupen/기본정보_해외_상태수정.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupen/기본정보_해외_수수료수정이력.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupen/기본정보_해외_수수료수정이력.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupen/기본정보_해외_수정.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupen/기본정보_해외_수정.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/가상계좌_상태수정.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/가상계좌_상태수정.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/가상계좌_수수료_수정이력.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/가상계좌_수수료_수정이력.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/가상계좌_수수료수정.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/가상계좌_수수료수정.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/계좌_상태변경.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/계좌_상태변경.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/계좌_수수료_수정이력.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/계좌_수수료_수정이력.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/계좌_수수료수정.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/계좌_수수료수정.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/기본정보_공통_정산.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/기본정보_공통_정산.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/기본정보_국내.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/기본정보_국내.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/기본정보_국내_수정.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/기본정보_국내_수정.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/신청정보_공통.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/신청정보_공통.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_구분값_수정이력.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_구분값_수정이력.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_상태변경.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_상태변경.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_수수료_수정이력.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_수수료_수정이력.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_수수료변경.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_수수료변경.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_정산주기_수정.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_정산주기_수정.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_정산주기_수정이력.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/카드_정산주기_수정이력.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/페이_상태변경.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/페이_상태변경.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/페이_수수료_수정이력.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/페이_수수료_수정이력.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/페이_수수료수정.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/signupko/페이_수수료수정.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/공인인증서_등록완료팝업.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/공인인증서_등록완료팝업.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/공인인증서_등록팝업.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/공인인증서_등록팝업.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/상호명_조회_데이터_체크.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/상호명_조회_데이터_체크.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/상호명_조회_데이터_체크_정상.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/상호명_조회_데이터_체크_정상.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/상호명_조회_데이터_체크_폐업.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/상호명_조회_데이터_체크_폐업.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/상호명_조회_데이터없음.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/상호명_조회_데이터없음.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/세금계산서_발행.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/세금계산서_발행.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/이메일발송_팝업.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/이메일발송_팝업.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/pagelist/data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/pagelist/data/data.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,16 +124,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/PP_PC_01/Desktop/study/codingapple/javascript",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PP_PC_01/Desktop/study/codingapple/javascript&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PP_PC_01\Desktop\public\server\payple-manager" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PP_PC_01\Desktop\public\server\payple-onboard\public" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
