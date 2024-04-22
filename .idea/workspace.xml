@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8c69ba47-a0d0-446a-9ae3-b114945bbec7" name="변경" comment="aside 수정 완료">
+    <list default="true" id="8c69ba47-a0d0-446a-9ae3-b114945bbec7" name="변경" comment="버튼 이슈 처리 작업 진행중">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/css/payple_component.css" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/css/payple_component.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/css/payple_pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/css/payple_pages.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_발행이력_더블체크.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_발행이력_더블체크.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_발행하기.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_발행하기.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_이력.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/account/현금영수증_이력.html" afterDir="false" />
@@ -54,6 +54,12 @@
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/modal.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/modal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/tab.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/tab.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/guide/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/include/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/include/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/include/signup-ko-tab1.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/include/signup-ko-tab1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/include/signup-ko-tab2.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/include/signup-ko-tab2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/include/signup-ko-tab3.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/include/signup-ko-tab3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/include/signup-ko-tab4.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/include/signup-ko-tab4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/include/signup-ko-tab5.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/include/signup-ko-tab5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역_국내검색시.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역_국내검색시.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역_해외검색시.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/linkpay/링크결제_상품내역_해외검색시.html" afterDir="false" />
@@ -100,7 +106,6 @@
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/세금계산서_발행.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/세금계산서_발행.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/이메일발송_팝업.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/dist/html/tax/이메일발송_팝업.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/payple-manager/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/payple-manager/public/pagelist/data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/payple-manager/public/pagelist/data/data.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701670397712</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="버튼 이슈 처리 작업 진행중">
+      <created>1713749252685</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713749252685</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +193,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="aside 수정 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="aside 수정 완료" />
+    <MESSAGE value="버튼 이슈 처리 작업 진행중" />
+    <option name="LAST_COMMIT_MESSAGE" value="버튼 이슈 처리 작업 진행중" />
   </component>
 </project>
